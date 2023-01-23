@@ -1,1 +1,7 @@
-print('hello world')
+def fx(){
+        print('hello world')
+}
+
+def fxTwo(){
+        
+}
